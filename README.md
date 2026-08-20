@@ -89,4 +89,4 @@ Python · pandas · BeautifulSoup · pdfplumber · spaCy · Hugging Face Transfo
 
 ---
 
-*M.Sc. Economics, IIT Kanpur -- Placement Portfolio Project*
+
