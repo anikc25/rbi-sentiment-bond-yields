@@ -89,4 +89,17 @@ Python · pandas · BeautifulSoup · pdfplumber · spaCy · Hugging Face Transfo
 
 ---
 
+## 👤 Author
+
+**Aryan Anand**
+MSc Economics, IIT Kanpur
+
+**Anik Chakraborty**
+MSc Economics, IIT Kanpur  
+
+**Sumit Sana**
+MSc Statistics, IIT Kanpur
+
+
+
 
